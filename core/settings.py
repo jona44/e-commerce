@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+DEFAULT_AUTO_FIELD='django.db.models.AutoField' 
 
 from django.urls import reverse
 
